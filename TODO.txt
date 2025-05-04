@@ -1,0 +1,8 @@
+the build
+/build
+    (on empty folder)
+    rm -rf *
+    cmake ..
+    make
+    [build is failing]
+
