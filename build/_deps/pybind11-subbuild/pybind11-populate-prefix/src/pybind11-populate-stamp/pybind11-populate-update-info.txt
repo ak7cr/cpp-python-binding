@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/Users/ak7cr/.local/pipx/venvs/cmake/lib/python3.13/site-packages/cmake/data/bin/cmake;-Dcan_fetch=YES;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/ak7cr/Developer/cpp-python-binding/build/_deps/pybind11-subbuild/pybind11-populate-prefix/tmp/pybind11-populate-gitupdate.cmake
+command (disconnected)=/Users/ak7cr/.local/pipx/venvs/cmake/lib/python3.13/site-packages/cmake/data/bin/cmake;-Dcan_fetch=NO;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/ak7cr/Developer/cpp-python-binding/build/_deps/pybind11-subbuild/pybind11-populate-prefix/tmp/pybind11-populate-gitupdate.cmake
+work_dir=/Users/ak7cr/Developer/cpp-python-binding/build/_deps/pybind11-src
